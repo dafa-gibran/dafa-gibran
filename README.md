@@ -1,92 +1,90 @@
-<table width="100%">
-<tr>
-<td width="55%" align="center" valign="middle">
-
-<h1 align="center">
-Hi
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-, I'm Daffa Gibran
-</h1>
-
-<h3 align="center">
-Software Engineering Student • Tech Enthusiast • Developer in Training
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Daffa%20Al%20Gibran&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Programmer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Software+Engineering+Student;Web+Developer;Python+%7C+JavaScript;Always+Learning+New+Technologies" alt="Typing SVG">
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=dafa-gibran&label=Profile%20Views&color=0e75b6&style=for-the-badge">
-<img src="https://img.shields.io/github/followers/dafa-gibran?style=for-the-badge&logo=github">
-<img src="https://img.shields.io/github/stars/dafa-gibran?style=for-the-badge&logo=github">
-</p>
-
-</td>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Developer.gif" width="350" alt="Coding animation">
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-</div>
-
-###
-
-<div align="center">
-  <h2>Connect with me </h2>
-  <a href="mailto:dafalgbrn.12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <a href="https://komarev.com/ghpvc/?username=dafa-gibran">
+    <img src="https://komarev.com/ghpvc/?username=dafa-gibran&label=Profile%20views&color=00FFFF&style=flat-square" alt="dafa-gibran's profile views" />
   </a>
-  <a href="https://github.com/dafa-gibran" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-</a>
-</div>
+</p>
 
-###
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
-<div align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dafa-gibran&theme=dracula" />
-  <img src="https://streak-stats.demolab.com?user=dafa-gibran&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160em" alt="streak graph" />
-
-</div>
-
-###
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dafa-gibran&theme=dracula" height="180"/>
-    </td>
-  </tr>
-</table>
-
-</div>
+## 📌 About Me
+- Always You
 
 
+## 🧠 My Focus Areas
+- Developer
+
+
+## 📊 GitHub Stats & Trophies
 <p align="center">
+  <a href="https://github.com/dafa-gibran">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dafa-gibran&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="dafa-gibran's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=dafa-gibran&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="dafa-gibran's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=dafa-gibran&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Daffa Al Gibran's GitHub Trophies" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dafa-gibran&theme=react-dark"/>
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
 
 </p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/dafa-gibran">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dafa-gibran&langs_count=8&layout=compact&theme=highcontrast&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+![Top language](https://stats.pphat.top/languages?username=dafa-gibran)
+<br/>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="mailto:dafalgbrn.12@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
