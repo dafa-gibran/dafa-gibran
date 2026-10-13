@@ -12,9 +12,13 @@
 - Always You
 - Harta Tahta Keluarga
 
-  
-##Monivasi
-𝖍𝖎𝖉𝖚𝖕 𝖇𝖚𝖐𝖆𝖓 𝖚𝖓𝖙𝖚𝖐 𝖒𝖊𝖒𝖎𝖑𝖎𝖐𝖎 𝖘𝖊𝖌𝖆𝖑𝖆𝖓𝖞𝖆, 𝖙𝖆𝖕𝖎 𝖚𝖓𝖙𝖚𝖐 𝖒𝖊𝖓𝖘𝖞𝖚𝖐𝖚𝖗𝖎 𝔰𝔢𝔤𝔞𝔩𝔞𝔫𝔶.
+ ## 📌 Motivasi
+ -HIDUP CUMA SEKALI,
+JANGAN BERSAING DENGAN SIAPA PUN
+NIKMATI LAH HIDUP MU
+TANPA MENINDAS ORANG LAIN
+
+-Jangan terlalu angkuh karna setiap orang punya jatah untuk jatuh👏🏻👋🏻
 
 ## 🧠 My Focus Areas
 - Software Engineer
